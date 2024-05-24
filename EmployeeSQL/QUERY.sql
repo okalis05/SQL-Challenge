@@ -74,3 +74,5 @@ SELECT last_name,
 FROM employees
 GROUP BY last_name 
 ORDER BY name_count DESC;
+
+-----------------------------------------------------------------------------
